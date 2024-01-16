@@ -1,0 +1,20 @@
+Khalid;Khan;22-9005;1
+Javed;Khan;22-9006;1
+Muhammad Hameed;Khan;22-9007;1
+Muhammad Naveed;Khan;22-9008;1
+Muhamad;Waheed;22-9009;1
+Zahid;Khan;22-9010;1
+Itbar;Khan;22-9011;1
+Sadeer;Khan;22-9012;1
+Ajab;Khan;22-9013;1
+Niamatullah;Khan;22-9014;1
+Izat;Gul;22-9015;1
+ZabihUllah;Khan;22-9016;1
+Muhammad;Amin;22-9017;1
+Sher;Muhammad;22-9018;1
+Saqib;Gul;22-9019;1
+Fazal;Amin;22-9020;1
+Zeeshan;Khan;22-9021;1
+Fazal Wahid;Khan;22-9022-;1
+MaseehUllah	Khan;22-9023;1
+Rafeeq Muhammad;Khan;22-9024;1

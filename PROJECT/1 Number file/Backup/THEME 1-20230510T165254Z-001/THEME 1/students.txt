@@ -1,0 +1,4 @@
+S001  Ayesha Khalid AI BAI-2A 2 ayesha@gmail.com 030167543287 Khalid Khan
+S002  Bilal Taimoor AI BAI-2A 2 bilal@gmail.com 030167543287  Taimoor Ahmed
+S003  Tooba Hammad AI BAI-2A 2 tooba@gmail.com 030167543287  Hammad Yousuf
+S004  Ahmed Waqar AI BAI-2A 2 ahmed@gmail.com 030167543287  Waqar Khan

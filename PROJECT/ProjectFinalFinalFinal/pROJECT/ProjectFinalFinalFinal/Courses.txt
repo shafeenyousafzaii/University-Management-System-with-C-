@@ -1,0 +1,5 @@
+OOP;3;1;CS5001
+Differential Equation;3;1;MT1005
+Calculas;3;1;MT1003
+DLD;2;1;El1005
+Artificial Inteligence;3;1;AI1006

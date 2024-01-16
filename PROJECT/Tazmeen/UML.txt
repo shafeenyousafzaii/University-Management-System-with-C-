@@ -1,0 +1,47 @@
+Here is a UML diagram for the classes `personType`, `courseType`, and `studentType`:
+
+```
++----------------+
+|  personType    |
++----------------+
+| -firstName: str|
+| -lastName: str |
++----------------+
+| +print(): void |
+| +setName(str,str)|
+| +getFirstName():str|
+| +getLastName():str|
+| +personType(str,str)|
++----------------+
+
++----------------+
+|  courseType    |
++----------------+
+| -courseName: str|
+| -courseNo: str |
+| -courseCredits:int|
++----------------+
+| +setCourseInfo(str,str,int)|
+| +print(ostream):void|
+| +getCredits():int|
+| +getCourseNumber():str|
+| +getCourseName():str|
+| +courseType(str,str,int)|
++----------------+
+
++----------------+
+|  studentType   |
++----------------+
+| -sId: int      |
+| -numberOfCourses:int|
+| -isTuitionPaid:bool|
+| -coursesEnrolled[6]:courseType|
++----------------+
+| +setInfo(str,str,int,int,bool,courseType[],char[])|
+| +print(ostream,double):void|
+| +getHoursEnrolled():int|
+| +getGpa():double|
+| +billingAmount(double):double|
++----------------+
+```
+Is there anything else you would like to know?

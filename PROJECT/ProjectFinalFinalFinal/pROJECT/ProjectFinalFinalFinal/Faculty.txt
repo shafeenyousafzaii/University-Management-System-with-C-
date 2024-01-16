@@ -1,0 +1,4 @@
+Khizar Ali;906;khizar@yahoo.com;Hayatabad;Professor;MT1005
+Tazmeen Afroz;907;Ta@gmail.com;Hayatabad;Professor;CS5001
+Shahfeen;908;papeen@gmail.com;Afghanistan;LAb Instructor;AI1006
+Kashif Sahil;910;ks@gmail.com;Karachi;Senior Professor;El1005
